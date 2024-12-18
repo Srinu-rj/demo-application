@@ -11,16 +11,11 @@ import java.util.List;
 @RequiredArgsConstructor
 public class StudentController {
 
-
-
     @GetMapping
     public String saveStudent() {
-        return "liuhfaspufhqgo'ifuacqnhyrq9prqmercoiureew89r";
+        return "DEVOPS CLOUD KUBERNATES";
     }
 
 
-//    @DeleteMapping
-//    @PutMapping
-//    @GetMapping
 
 }
